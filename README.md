@@ -3,7 +3,7 @@
 This repository contains my solution for the Kaggle competition [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview).
 The competition involved predicting sales for the thousands of product families sold at different Favorita stores located in Ecuador.  
 My solution achieved an **RMSLE** score of **0.4453** on the test set.
-You can view my Kaggle notebook solution [here](https://www.kaggle.com/code/beasttitan/store-sales-forecasting-eda-xgboost-modeling?scriptVersionId=211106452).
+You can view my Kaggle notebook solution [here](https://www.kaggle.com/code/beasttitan/store-sales-forecasting-eda-xgboost-modeling?scriptVersionId=213090474).
 ## How to run
 Clone the repository
 ```bash
